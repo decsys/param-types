@@ -13,8 +13,7 @@ stages:
             deploy:
               steps:
                 - checkout: self
-                - script: npm publish --dry-run
-                # - task: Npm@1
-                #   inputs:
-                #     command: publish
-                #     publishEndpoint: npmjs
+                - task: Npm@1
+                  inputs:
+                    command: publish
+                    publishEndpoint: npmjs
