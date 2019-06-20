@@ -1,4 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/decsys/param-types.svg)
+[![Build Status](https://dev.azure.com/UniversityOfNottingham/DECSYS/_apis/build/status/decsys.param-types?branchName=master)](https://dev.azure.com/UniversityOfNottingham/DECSYS/_build/latest?definitionId=179&branchName=master)
 [![npm (scoped with tag)](https://img.shields.io/npm/v/@decsys/param-types/latest.svg)](https://www.npmjs.com/package/@decsys/param-types)
 
 # Param Types
