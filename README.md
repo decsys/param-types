@@ -6,7 +6,7 @@
 
 The DECSYS Parameter Types utilities package, used for authoring DECSYS Response Components.
 
-** This repository is for 1.x only. The package has since moved to the [main decsys monorepo](https://github.com/decsys/decsys).**
+**This repository is for 1.x only. The package has since moved to the [main decsys monorepo](https://github.com/decsys/decsys).**
 
 # Installation
 
